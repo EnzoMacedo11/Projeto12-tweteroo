@@ -1,12 +1,25 @@
 {
-  "name": "tweteroo",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "projeto12-tweteroo",
   "version": "1.0.0",
-  "description": "",
-  "type": "module",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Enzo Macedo",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoMacedo11/Projeto12-tweteroo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnzoMacedo11/Projeto12-tweteroo/issues"
+  },
+  "homepage": "https://github.com/EnzoMacedo11/Projeto12-tweteroo#readme",
+  "description": ""
 }
